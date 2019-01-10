@@ -4,5 +4,7 @@ public class Test2 {
         System.out.println ("222222");
 
         System.out.println ("1232");
+
+        System.out.println ("8888");
     }
 }
